@@ -1,0 +1,8 @@
+@media(width>980px){
+    .grid {
+        display: grid;
+        place-items: center;
+        grid-template-areas: 'one two thre';
+        margin-top: 50px;
+    }
+  }
