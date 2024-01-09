@@ -21,6 +21,6 @@ export const info = [
         desc:'Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.',
         but:'',
         span:'Learn More',
-        background:'#004140',
+        background:'rgb(156, 108, 201)',
       },
 ]
