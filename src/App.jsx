@@ -5,6 +5,7 @@ import Card from './components/card/card'
 function App() {
   
   return (
+    <>
     <div className='grid'>
       {info.map((x , i) => (
       <Card
@@ -18,6 +19,7 @@ function App() {
       />
       ))}
     </div>
+    </>
   )
 }
 
